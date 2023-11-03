@@ -1,6 +1,6 @@
 const express = require('express');
 
-require('dotenv').config();  //cargar variables en .env (a traves deprocess)
+require('dotenv').config();  //cargar variables en .env (a traves de process)
 
 const app = express();
 
